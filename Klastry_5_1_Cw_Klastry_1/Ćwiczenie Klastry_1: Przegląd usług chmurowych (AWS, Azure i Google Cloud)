@@ -1,10 +1,11 @@
 1. Jakiego typu dane bioinformatyczne przetwarza Pan/Pani hobbystyczne lub w pracy zawodowej ?
-Jestem zarówno biologiem molekularnym jak również diagnostą laboratoryjnym. Miałam do czynienia z danymi eksperymentalnymi (RNAseq) oraz diagnostycznymi (sekwencjonowanie genomu ludzkiego w poszukiwaniu wariantów patogennych). W przyszłości chciałabym również zapoznać się z analizą ekspresji genów pojedynczych komórek.
+Jestem zarówno biologiem molekularnym, jak i diagnostą laboratoryjnym. Miałam do czynienia z danymi eksperymentalnymi (RNAseq) oraz diagnostycznymi (sekwencjonowanie genomu ludzkiego w poszukiwaniu wariantów patogennych). W przyszłości chciałabym również zapoznać się z analizą ekspresji genów na poziomie pojedynczych komórek (single-cell RNA-seq).
  
 2. Jakiego typu dane chciałby/ałałby Pan/Pani nauczyć się przetwarzać - dlaczego ?
-Chciałabym się nauczyć analiz RNAseq i sekwencjonowania DNA ponieważ jest to związane z moją pracą oraz zainteresowaniami.
+Chciałabym nauczyć się analiz danych RNA-seq oraz sekwencjonowania DNA, ponieważ są one związane z moją pracą zawodową i zainteresowaniami naukowymi. W tych obszarach mam już pewną orientację, jednak analiza ekspresji genów na poziomie pojedynczych komórek (single-cell RNA-seq) jest dla mnie zupełnie nowym zagadnieniem, które chciałabym lepiej poznać.
 
 3. Która platforma wydaje się najbardziej odpowiednia do analizy danych bioinformatycznych i dlaczego ?
-
+Odpowiedź na to pytanie wydaje mi się zależna od poziomu zaawansowania użytkownika. Na początku mojej przygody z podanymi platformami bardziej adekwatna w moim przypadku wydaje mi się Google Cloud Platform (GCP). Wydaje się bardziej przyjazna osobom bez zaawansowanych umiejętności bioinformatycznych. Ponadto GCP oprócz przechowywania i analizy danych genomowych oferuje workflow oparty na kontenerach oraz rozwiązania AI.
 
 4. Jakie konkretne narzędzia lub usługi chciałby/ałaby Pan/Pani przetestować w swoim projekcie ? Dlaczego?
+Usługami które chciałabym przetestować jest przechowywanie i analiza danych, uruchamianie kontenerów Dockera.
